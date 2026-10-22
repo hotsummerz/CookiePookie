@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Droid(Cafe"
+rootProject.name = "DroidCafe"
 include(":app")
  
